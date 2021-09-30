@@ -7,7 +7,7 @@ Oneliner is a simple python script that turns your code into one line.
 
 - **How does it work?**  
 
-> It detects the linebreaks and indents and replaces them with \n and \t respectively, then executes the result by using built-in function "exec".
+> It detects the linebreaks and indents and replaces them with \n and \t respectively, then executes the result by using built-in function "exec()".
 
 ### Example:   
 
