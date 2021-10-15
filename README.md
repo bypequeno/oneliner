@@ -1,9 +1,9 @@
 # Oneliner  
-Oneliner is a simple python script that turns your code into one line.  
+Oneliner is a python cli app that turns your code into one line.  
 
 - **Why?**  
 
-> Because why not?  
+> It can be usefull in some things, like running entire apps directly into python shell.
 
 - **How does it work?**  
 
@@ -42,3 +42,5 @@ exec("value_a=0\nvalue_b=1\ni=3\nj=10\nfor z in range(j):\n\tresult = value_a + 
 55
 89
 ```
+
+###Someday I'm gonna update this readme to be more specific with cli update    
